@@ -1,0 +1,22 @@
+{
+  "name": "lodown-shawnjr",
+  "version": "1.0.0",
+  "description": "An npm functional programming library project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawnAndersonJr/lodown.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShawnAndersonJr/lodown/issues"
+  },
+  "homepage": "https://github.com/ShawnAndersonJr/lodown#readme"
+}
